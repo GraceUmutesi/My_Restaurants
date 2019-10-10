@@ -15,11 +15,11 @@
         android:src="@drawable/dining" />
 
     <TextView
+        android:id="@+id/appNameTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="MyRestaurants"
         android:layout_marginTop="35dp"
-        android:id="@+id/appNameTextView"
         android:textColor="@color/colorAccent"
         android:textSize="20sp"
         android:layout_alignParentTop="true"
